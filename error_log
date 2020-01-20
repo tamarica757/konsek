@@ -1,0 +1,51 @@
+[18-Mar-2015 00:46:13 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'на' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 00:46:17 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'на' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 00:47:15 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Naslov' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 44
+[18-Mar-2015 00:52:43 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Naslov' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 44
+[18-Mar-2015 00:55:05 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '',' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 94
+[18-Mar-2015 01:03:33 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'на' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 01:04:50 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'na' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 01:11:37 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '>' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 01:13:55 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '>' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 01:14:01 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'и' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 70
+[18-Mar-2015 01:14:45 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'нас' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 70
+[18-Mar-2015 02:24:45 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '>' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 02:25:01 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Добродошли' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 02:25:25 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '>' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 02:26:00 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '>' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 02:26:17 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '>' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 02:26:36 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'добродошли' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 02:30:45 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'на' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 02:30:56 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'на' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 02:31:10 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'добродошли' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 22
+[18-Mar-2015 04:12:06 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'нас' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 70
+[18-Mar-2015 04:41:18 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Tekst' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 70
+[18-Mar-2015 04:41:38 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Naslov' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 72
+[18-Mar-2015 04:43:01 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Naslov' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 72
+[18-Mar-2015 04:43:20 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Naslov' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 72
+[18-Mar-2015 05:03:31 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Tekst' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 70
+[18-Mar-2015 05:52:52 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Саша' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 100
+[18-Mar-2015 05:54:57 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Titula' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 101
+[18-Mar-2015 05:55:20 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Titula' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 101
+[18-Mar-2015 05:55:32 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Titula' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 101
+[18-Mar-2015 05:55:55 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Titula' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 101
+[18-Mar-2015 05:57:49 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Titula' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 101
+[18-Mar-2015 05:58:01 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Titula' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 101
+[18-Mar-2015 05:58:45 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Titula' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 101
+[18-Mar-2015 06:03:09 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Pera' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 108
+[18-Mar-2015 06:15:25 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Naslov' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 67
+[18-Mar-2015 06:19:02 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Naslov' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 72
+[18-Mar-2015 06:19:14 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Naslov' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 72
+[18-Mar-2015 06:21:25 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Statistika' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 88
+[18-Mar-2015 23:18:42 Europe/Belgrade] PHP Parse error:  syntax error, unexpected ''Tekst za Instagram'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 90
+[18-Mar-2015 23:19:04 Europe/Belgrade] PHP Parse error:  syntax error, unexpected ''Tekst za Instagram'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 90
+[18-Mar-2015 23:19:15 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '@', expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 89
+[18-Mar-2015 23:24:05 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Tekst' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 88
+[18-Mar-2015 23:24:59 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Tekst' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 88
+[19-Mar-2015 13:08:03 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Иван' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 169
+[19-Mar-2015 13:08:27 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Иван' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 169
+[19-Mar-2015 13:10:24 Europe/Belgrade] PHP Parse error:  syntax error, unexpected 'Ime' (T_STRING), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 109
+[23-Mar-2016 09:47:16 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 49
+[23-Mar-2016 09:47:16 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/gzsorgrs/public_html/konsek/tekstovi.php on line 49
+[18-Jun-2019 08:50:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Jun-2019 09:00:14 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
