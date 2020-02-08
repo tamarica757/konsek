@@ -125,7 +125,7 @@ include('tekstovi.php');
 					<img src="images/konsek.png"><br>
 					<span class="hero-description"><?php echo _T('Mali tekst na vrhu'); ?></span>
 					<div class="hero-title-holder"><h1 class="hero-title hero-title-text"><?php echo _T('Rotacioni tekst 1'); ?></h1></div>
-					<span class="btn-holder"><a id="to-o-projektu" class="hero-btn"><?php echo _T('Dugme na vrhu'); ?></a></span>
+					<span class="btn-holder"><a href="#o-projektu" class="hero-btn"><?php echo _T('Dugme na vrhu'); ?></a></span>
 					<div class="hidden hero-title-text"><?php echo _T('Rotacioni tekst 2'); ?></div>
 					<div class="hidden hero-title-text"><?php echo _T('Rotacioni tekst 3'); ?></div>
 				</div>
