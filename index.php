@@ -43,7 +43,75 @@ include('tekstovi.php');
 }
 </style>
 <![endif]-->
+<style>
+/* Effect 14: border switch */
+.cl-effect-14 a {
+	padding: 0 20px;
+	height: 45px;
+	line-height: 45px;
+}
 
+.cl-effect-14 a::before,
+.cl-effect-14 a::after {
+	position: absolute;
+	width: 45px;
+	height: 2px;
+	background: #fff;
+	content: '';
+	opacity: 0.2;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	pointer-events: none;
+}
+
+.cl-effect-14 a::before {
+	top: 0;
+	left: 0;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	transform: rotate(90deg);
+	-webkit-transform-origin: 0 0;
+	-moz-transform-origin: 0 0;
+	transform-origin: 0 0;
+}
+
+.cl-effect-14 a::after {
+	right: 0;
+	bottom: 0;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	transform: rotate(90deg);
+	-webkit-transform-origin: 100% 0;
+	-moz-transform-origin: 100% 0;
+	transform-origin: 100% 0;
+}
+
+.cl-effect-14 a:hover::before,
+.cl-effect-14 a:hover::after,
+.cl-effect-14 a:focus::before,
+.cl-effect-14 a:focus::after {
+	opacity: 1;
+}
+
+.cl-effect-14 a:hover::before,
+.cl-effect-14 a:focus::before {
+	left: 50%;
+	-webkit-transform: rotate(0deg) translateX(-50%);
+	-moz-transform: rotate(0deg) translateX(-50%);
+	transform: rotate(0deg) translateX(-50%);
+}
+
+.cl-effect-14 a:hover::after,
+.cl-effect-14 a:focus::after {
+	right: 50%;
+	-webkit-transform: rotate(0deg) translateX(50%);
+	-moz-transform: rotate(0deg) translateX(50%);
+	transform: rotate(0deg) translateX(50%);
+}	
+	
+	
+</style>
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" href="css/ie.css" />
 <![endif]-->
@@ -59,6 +127,7 @@ include('tekstovi.php');
 <script src="js/modernizr.js"></script>
 <script src="js/device.min.js"></script>
 
+	
 </head>
 
 <body id="mainsite">
@@ -195,7 +264,7 @@ include('tekstovi.php');
 			<section id="cta-section" class="cta-section content-section">
 				<div class="grid-container">
 					<div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
-						<span class="cta-btn cl-effect-18"><a href="mailto:office@konsek.info" class="cl-effect-18"><?php echo _T('Kontakt opis'); ?></a></span>
+						<span class="cta-btn cl-effect-14"><a href="mailto:office@konsek.info" class="cl-effect-14"><?php echo _T('Kontakt opis'); ?></a></span>
 					</div>
 				</div>
 			</section><!-- close cta section -->
