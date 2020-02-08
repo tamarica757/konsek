@@ -570,8 +570,7 @@ include('tekstovi.php');
 			<div class="grid-container">
 				<div class="grid-150 mobile-grid-150 tablet-grid-150">
 					<a href="http://www.grupazaspekof.org.rs/sr/pocetna-stranica/">
-						Група за СПЕКОФ
-					</a>
+                        <img width="150" height="50" alt="Група за СПЕКОФ" src="images/gzs.jpg">
 				</div>
 			</div><!-- close container -->
 		</footer><!-- close footer -->
