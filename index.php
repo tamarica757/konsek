@@ -500,8 +500,8 @@ include('tekstovi.php');
 			<a href="#top" class="toTop"><i class="icon-angle-up"></i></a>
 			<div class="grid-container">
 				<div class="grid-150 mobile-grid-150 tablet-grid-150">
-					<a href="http://www.gzs.org.rs/">
-						<img width="150" height="150" alt="Група за СПЕКОФ" src="http://www.gzs.org.rs/wp-content/uploads/2015/08/100x100-bottom.png">
+					<a href="http://www.grupazaspekof.org.rs/sr/pocetna-stranica/">
+						Група за СПЕКОФ
 					</a>
 				</div>
 			</div><!-- close container -->
