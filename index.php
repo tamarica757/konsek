@@ -393,6 +393,7 @@ include('tekstovi.php');
 
 						<!-- social network -->
 						<ul class="social-network">
+							
 							<li class="facebook grid-25 tablet-grid-25 mobile-grid-50">
 								<a class="social-link" href="<?php echo _T('Link za Facebook'); ?>" target="_blank">
 									<span class="social-icon"><i class="icon-facebook icon-4x"></i></span>
@@ -400,25 +401,12 @@ include('tekstovi.php');
 									<span class="social-info"><?php echo _T('Tekst za Facebook'); ?></span>
 								</a>
 							</li>
-							<li class="twitter grid-25 tablet-grid-25 mobile-grid-50">
-								<a class="social-link" href="<?php echo _T('Link za Twitter'); ?>" target="_blank">
-									<span class="social-icon"><i class="icon-twitter icon-4x"></i></span>
-									<h3 class="social-title">Twitter</h3>
-									<span class="social-info"><?php echo _T('Tekst za Twitter'); ?></span>
-								</a>
-							</li>
+
 							<li class="instagram grid-25 tablet-grid-25 mobile-grid-50">
 								<a class="social-link" href="<?php echo _T('Link za Instagram'); ?>" target="_blank">
 									<span class="social-icon"><i class="icon-instagram icon-4x"></i></span>
 									<h3 class="social-title">Instagram</h3>
 									<span class="social-info"><?php echo _T('Tekst za Instagram'); ?></span>
-								</a>
-							</li>
-							<li class="grid-25 tablet-grid-25 mobile-grid-50">
-								<a href="live.php" class="social-link livestream" target="_blank">
-									<span class="social-icon"><i class="icon-facetime-video icon-4x"></i></span>
-									<h3 class="social-title">Livestream</h3>
-									<span class="social-info"><?php echo _T('Tekst za Livestream'); ?></span>
 								</a>
 							</li>
 						</ul><!-- close social network -->
