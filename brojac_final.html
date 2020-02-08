@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+    <meta name="viewport" charset="UTF-8" content="width=device-width, initial-scale=1">
+    <style>
+        body{background:black;}
+		
+        p#demo {
+            text-align: center;
+            font-size: 100%;
+            margin-top: 10%;
+            color: #000;
+			border-radius: 15px 50px 30px;
+			background-color: #f5d020;
+			background-image: linear-gradient(315deg, #f5d020 0%, #f53803 74%);
+			
+        }
+		p#logo {
+			text-align: center;
+            margin-top: 8%;
+		}
+
+    </style>
+</head>
+<body>
+ 
+<p id="logo"> <img src="https://i.imgur.com/DO3oiOx.png" style="width:40%" alt="KONSEK_logo"></p>
+<p id="demo"></p>
+
+<script>
+    // OVDE UNESITE DATUM I VREME
+    var countDownDate = new Date("Feb 08, 2020 20:00:00").getTime();
+
+
+    var x = setInterval(function () {
+
+        var now = new Date().getTime();
+
+        var distance =countDownDate - now;
+
+        var distance1= distance/1000;
+
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor(distance % (1000 * 60)/1000);
+
+        var url= "https://docs.google.com/forms/d/1UrrUqdCfpN5tF_imUjSVrQ0orMcoA0o_-HNSm1gBzeg/viewform?edit_requested=true"
+
+
+
+        if(distance1>=11){
+            document.getElementById('demo').style.fontSize = '300%';
+            document.getElementById("demo").innerHTML = "Ускоро почињу пријаве" + "</br>" + "</br>" +
+            days + " дана | " + hours + " сати | " + minutes +  " минута | " + seconds + " секунди ";
+        }
+
+        else if (0<=distance1<=10){
+
+
+
+            var  myVar = setInterval(brojac, 1000);
+
+            sec=11;
+            function brojac() {
+                document.getElementById('demo').style.fontSize = '600%';
+                sec = sec-1;
+
+                if(sec>=0){document.getElementById("demo").innerHTML = sec;}
+                else{clearInterval(myVar); document.getElementById("demo").innerHTML = "0";}
+            }
+        }
+        if(distance1<0){
+            clearInterval(x);
+            document.getElementById("demo").innerHTML = " ";
+            window.location = url;}
+
+
+
+
+    }, 1000);
+</script>
+
+
+<p id="logo"> <img src="https://i.imgur.com/mHdHcwB.png" style="width:20%" alt="KONSEK_logo"></p>
+</body>
+</html>
